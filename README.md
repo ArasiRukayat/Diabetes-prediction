@@ -1,1 +1,1 @@
-# Diabetes-prediction
+this model can be used to make predictions on new individuals who provide their health-related information. Based on the input features, the model calculates the probability that the person has diabetes. This probability can then be thresholded to make a binary prediction: whether the person is likely to have diabetes or not.
